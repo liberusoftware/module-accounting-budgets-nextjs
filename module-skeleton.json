@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-budgets-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-budgets",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-budgets-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/budgets.md",
+  "presentationPlan": "projects/accounting/nextjs/budgets.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
